@@ -1,3 +1,6 @@
+#Data
+events.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -119,6 +122,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+hack_env
 
 # Spyder project settings
 .spyderproject
